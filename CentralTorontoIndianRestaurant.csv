@@ -1,0 +1,97 @@
+neighborhoodName,categoriesName,name,distance,formattedAddress,lat,lng,id
+"The Annex, North Midtown, Yorkville",Indian Restaurant,Aroma Fine Indian Restaurant,3194,"['287 King St. W (at John St.)', 'Toronto ON M5V 1J5', 'Canada']",43.646462521503445,-79.38964414801342,4aef8854f964a5201cd921e3
+"Deer Park, Forest Hill SE, Rathnelly, South Hill, Summerhill West",Indian Restaurant,Aroma Fine Indian Restaurant,4525,"['287 King St. W (at John St.)', 'Toronto ON M5V 1J5', 'Canada']",43.646462521503445,-79.38964414801342,4aef8854f964a5201cd921e3
+"Moore Park, Summerhill East",Indian Restaurant,Aroma Fine Indian Restaurant,4827,"['287 King St. W (at John St.)', 'Toronto ON M5V 1J5', 'Canada']",43.646462521503445,-79.38964414801342,4aef8854f964a5201cd921e3
+"Forest Hill North, Forest Hill West",Indian Restaurant,Aroma Fine Indian Restaurant,5884,"['287 King St. W (at John St.)', 'Toronto ON M5V 1J5', 'Canada']",43.646462521503445,-79.38964414801342,4aef8854f964a5201cd921e3
+Davisville,Indian Restaurant,Banjara Indian Cuisine,531,"['164 Eglinton Ave E (at Redpath Ave)', 'Toronto ON', 'Canada']",43.7078104847312,-79.3932956275409,4b7ccc72f964a520e3a52fe3
+Davisville North,Indian Restaurant,Banjara Indian Cuisine,603,"['164 Eglinton Ave E (at Redpath Ave)', 'Toronto ON', 'Canada']",43.7078104847312,-79.3932956275409,4b7ccc72f964a520e3a52fe3
+North Toronto West,Indian Restaurant,Banjara Indian Cuisine,1305,"['164 Eglinton Ave E (at Redpath Ave)', 'Toronto ON', 'Canada']",43.7078104847312,-79.3932956275409,4b7ccc72f964a520e3a52fe3
+"Forest Hill North, Forest Hill West",Indian Restaurant,Banjara Indian Cuisine,1887,"['164 Eglinton Ave E (at Redpath Ave)', 'Toronto ON', 'Canada']",43.7078104847312,-79.3932956275409,4b7ccc72f964a520e3a52fe3
+Roselawn,Indian Restaurant,Banjara Indian Cuisine,1950,"['164 Eglinton Ave E (at Redpath Ave)', 'Toronto ON', 'Canada']",43.7078104847312,-79.3932956275409,4b7ccc72f964a520e3a52fe3
+"Moore Park, Summerhill East",Indian Restaurant,Banjara Indian Cuisine,2187,"['164 Eglinton Ave E (at Redpath Ave)', 'Toronto ON', 'Canada']",43.7078104847312,-79.3932956275409,4b7ccc72f964a520e3a52fe3
+Lawrence Park,Indian Restaurant,Banjara Indian Cuisine,2278,"['164 Eglinton Ave E (at Redpath Ave)', 'Toronto ON', 'Canada']",43.7078104847312,-79.3932956275409,4b7ccc72f964a520e3a52fe3
+"Deer Park, Forest Hill SE, Rathnelly, South Hill, Summerhill West",Indian Restaurant,Banjara Indian Cuisine,2443,"['164 Eglinton Ave E (at Redpath Ave)', 'Toronto ON', 'Canada']",43.7078104847312,-79.3932956275409,4b7ccc72f964a520e3a52fe3
+"The Annex, North Midtown, Yorkville",Indian Restaurant,Bhoj Indian Cuisine,1337,"['21 Davenport Rd', 'Toronto ON M5R 1H2', 'Canada']",43.672764564316296,-79.3890631198883,56c743c7498e7033ff262ce2
+"Deer Park, Forest Hill SE, Rathnelly, South Hill, Summerhill West",Indian Restaurant,Bhoj Indian Cuisine,1757,"['21 Davenport Rd', 'Toronto ON M5R 1H2', 'Canada']",43.672764564316296,-79.3890631198883,56c743c7498e7033ff262ce2
+"Moore Park, Summerhill East",Indian Restaurant,Bhoj Indian Cuisine,1930,"['21 Davenport Rd', 'Toronto ON M5R 1H2', 'Canada']",43.672764564316296,-79.3890631198883,56c743c7498e7033ff262ce2
+"Forest Hill North, Forest Hill West",Indian Restaurant,Bhoj Indian Cuisine,3233,"['21 Davenport Rd', 'Toronto ON M5R 1H2', 'Canada']",43.672764564316296,-79.3890631198883,56c743c7498e7033ff262ce2
+Davisville,Indian Restaurant,Bhoj Indian Cuisine,3513,"['21 Davenport Rd', 'Toronto ON M5R 1H2', 'Canada']",43.672764564316296,-79.3890631198883,56c743c7498e7033ff262ce2
+Davisville North,Indian Restaurant,Bhoj Indian Cuisine,4452,"['21 Davenport Rd', 'Toronto ON M5R 1H2', 'Canada']",43.672764564316296,-79.3890631198883,56c743c7498e7033ff262ce2
+Roselawn,Indian Restaurant,Bhoj Indian Cuisine,4879,"['21 Davenport Rd', 'Toronto ON M5R 1H2', 'Canada']",43.672764564316296,-79.3890631198883,56c743c7498e7033ff262ce2
+"Deer Park, Forest Hill SE, Rathnelly, South Hill, Summerhill West",Indian Restaurant,Chef of India,525,"['1436 Yonge St. (at St. Clair Ave. W)', 'Toronto ON M4T 1Y5', 'Canada']",43.68739108979126,-79.39366289219959,4b7c2a4ff964a52087812fe3
+"Moore Park, Summerhill East",Indian Restaurant,Chef of India,879,"['1436 Yonge St. (at St. Clair Ave. W)', 'Toronto ON M4T 1Y5', 'Canada']",43.68739108979126,-79.39366289219959,4b7c2a4ff964a52087812fe3
+"Forest Hill North, Forest Hill West",Indian Restaurant,Chef of India,1774,"['1436 Yonge St. (at St. Clair Ave. W)', 'Toronto ON M4T 1Y5', 'Canada']",43.68739108979126,-79.39366289219959,4b7c2a4ff964a52087812fe3
+"The Annex, North Midtown, Yorkville",Indian Restaurant,Chef of India,1899,"['1436 Yonge St. (at St. Clair Ave. W)', 'Toronto ON M4T 1Y5', 'Canada']",43.68739108979126,-79.39366289219959,4b7c2a4ff964a52087812fe3
+Davisville,Indian Restaurant,Chef of India,1925,"['1436 Yonge St. (at St. Clair Ave. W)', 'Toronto ON M4T 1Y5', 'Canada']",43.68739108979126,-79.39366289219959,4b7c2a4ff964a52087812fe3
+Davisville North,Indian Restaurant,Chef of India,2836,"['1436 Yonge St. (at St. Clair Ave. W)', 'Toronto ON M4T 1Y5', 'Canada']",43.68739108979126,-79.39366289219959,4b7c2a4ff964a52087812fe3
+"Forest Hill North, Forest Hill West",Indian Restaurant,Earth Indian Express,969,"['Toronto ON', 'Canada']",43.70489011567395,-79.40635180308432,4ffb595be4b068da7038dcfb
+Roselawn,Indian Restaurant,Earth Indian Express,1139,"['Toronto ON', 'Canada']",43.70489011567395,-79.40635180308432,4ffb595be4b068da7038dcfb
+North Toronto West,Indian Restaurant,Earth Indian Express,1169,"['Toronto ON', 'Canada']",43.70489011567395,-79.40635180308432,4ffb595be4b068da7038dcfb
+Davisville,Indian Restaurant,Earth Indian Express,1414,"['Toronto ON', 'Canada']",43.70489011567395,-79.40635180308432,4ffb595be4b068da7038dcfb
+Davisville North,Indian Restaurant,Earth Indian Express,1567,"['Toronto ON', 'Canada']",43.70489011567395,-79.40635180308432,4ffb595be4b068da7038dcfb
+"Deer Park, Forest Hill SE, Rathnelly, South Hill, Summerhill West",Indian Restaurant,Earth Indian Express,2118,"['Toronto ON', 'Canada']",43.70489011567395,-79.40635180308432,4ffb595be4b068da7038dcfb
+"Moore Park, Summerhill East",Indian Restaurant,Earth Indian Express,2528,"['Toronto ON', 'Canada']",43.70489011567395,-79.40635180308432,4ffb595be4b068da7038dcfb
+Lawrence Park,Indian Restaurant,Earth Indian Express,2937,"['Toronto ON', 'Canada']",43.70489011567395,-79.40635180308432,4ffb595be4b068da7038dcfb
+Davisville,Indian Restaurant,Eat Indian By Amaya,1104,"['1574 Bayview Ave. (Belsize Ave.)', 'Toronto ON M4S 1T3', 'Canada']",43.705591752336446,-79.37517794845704,4c51e0069d642d7f4aef50de
+Davisville North,Indian Restaurant,Eat Indian By Amaya,1447,"['1574 Bayview Ave. (Belsize Ave.)', 'Toronto ON M4S 1T3', 'Canada']",43.705591752336446,-79.37517794845704,4c51e0069d642d7f4aef50de
+"Moore Park, Summerhill East",Indian Restaurant,Eat Indian By Amaya,1895,"['1574 Bayview Ave. (Belsize Ave.)', 'Toronto ON M4S 1T3', 'Canada']",43.705591752336446,-79.37517794845704,4c51e0069d642d7f4aef50de
+North Toronto West,Indian Restaurant,Eat Indian By Amaya,2685,"['1574 Bayview Ave. (Belsize Ave.)', 'Toronto ON M4S 1T3', 'Canada']",43.705591752336446,-79.37517794845704,4c51e0069d642d7f4aef50de
+Lawrence Park,Indian Restaurant,Eat Indian By Amaya,2726,"['1574 Bayview Ave. (Belsize Ave.)', 'Toronto ON M4S 1T3', 'Canada']",43.705591752336446,-79.37517794845704,4c51e0069d642d7f4aef50de
+"The Annex, North Midtown, Yorkville",Indian Restaurant,Indian Biriyani House,2486,"['181 Dundas St W (W of Chestnut St)', 'Toronto ON M5G 1C7', 'Canada']",43.65511996683289,-79.3866447102921,4afd920ff964a520ad2822e3
+"Deer Park, Forest Hill SE, Rathnelly, South Hill, Summerhill West",Indian Restaurant,Indian Biriyani House,3646,"['181 Dundas St W (W of Chestnut St)', 'Toronto ON M5G 1C7', 'Canada']",43.65511996683289,-79.3866447102921,4afd920ff964a520ad2822e3
+"Moore Park, Summerhill East",Indian Restaurant,Indian Biriyani House,3845,"['181 Dundas St W (W of Chestnut St)', 'Toronto ON M5G 1C7', 'Canada']",43.65511996683289,-79.3866447102921,4afd920ff964a520ad2822e3
+Lawrence Park,North Indian Restaurant,Indian Bread Bar,1179,"['3305 Yonge St', 'Toronto ON M4N 2L8', 'Canada']",43.730147945029564,-79.4031525106043,54dd1704498e6bef053d2cdf
+North Toronto West,North Indian Restaurant,Indian Bread Bar,1656,"['3305 Yonge St', 'Toronto ON M4N 2L8', 'Canada']",43.730147945029564,-79.4031525106043,54dd1704498e6bef053d2cdf
+Davisville North,North Indian Restaurant,Indian Bread Bar,2199,"['3305 Yonge St', 'Toronto ON M4N 2L8', 'Canada']",43.730147945029564,-79.4031525106043,54dd1704498e6bef053d2cdf
+Roselawn,North Indian Restaurant,Indian Bread Bar,2334,"['3305 Yonge St', 'Toronto ON M4N 2L8', 'Canada']",43.730147945029564,-79.4031525106043,54dd1704498e6bef053d2cdf
+Davisville,North Indian Restaurant,Indian Bread Bar,3098,"['3305 Yonge St', 'Toronto ON M4N 2L8', 'Canada']",43.730147945029564,-79.4031525106043,54dd1704498e6bef053d2cdf
+Lawrence Park,Indian Restaurant,Indian Crown,4032,"['4750 Yonge St, Unit 144', 'Toronto ON M2N 0K6', 'Canada']",43.760076,-79.412153,5a3aa72566fc6574a8e6df2e
+North Toronto West,Indian Restaurant,Indian Crown,5002,"['4750 Yonge St, Unit 144', 'Toronto ON M2N 0K6', 'Canada']",43.760076,-79.412153,5a3aa72566fc6574a8e6df2e
+Roselawn,Indian Restaurant,Indian Crown,5399,"['4750 Yonge St, Unit 144', 'Toronto ON M2N 0K6', 'Canada']",43.760076,-79.412153,5a3aa72566fc6574a8e6df2e
+"Moore Park, Summerhill East",Indian Restaurant,Indian Roti House,2812,"['Toronto ON', 'Canada']",43.66438249736424,-79.38046844039624,547f94e9498e62f695829624
+Davisville North,Indian Restaurant,Indian Roti House,5440,"['Toronto ON', 'Canada']",43.66438249736424,-79.38046844039624,547f94e9498e62f695829624
+North Toronto West,Indian Restaurant,Indian Roti House,6029,"['Toronto ON', 'Canada']",43.66438249736424,-79.38046844039624,547f94e9498e62f695829624
+Davisville,Indian Restaurant,Indian Street Food Co.,1102,"['1701 Bayview (Eglinton)', 'Toronto ON', 'Canada']",43.7080316171988,-79.37608602446167,5650eed9498e376aac0c2478
+Davisville North,Indian Restaurant,Indian Street Food Co.,1251,"['1701 Bayview (Eglinton)', 'Toronto ON', 'Canada']",43.7080316171988,-79.37608602446167,5650eed9498e376aac0c2478
+"Moore Park, Summerhill East",Indian Restaurant,Indian Street Food Co.,2132,"['1701 Bayview (Eglinton)', 'Toronto ON', 'Canada']",43.7080316171988,-79.37608602446167,5650eed9498e376aac0c2478
+Lawrence Park,Indian Restaurant,Indian Street Food Co.,2448,"['1701 Bayview (Eglinton)', 'Toronto ON', 'Canada']",43.7080316171988,-79.37608602446167,5650eed9498e376aac0c2478
+North Toronto West,Indian Restaurant,Indian Street Food Co.,2517,"['1701 Bayview (Eglinton)', 'Toronto ON', 'Canada']",43.7080316171988,-79.37608602446167,5650eed9498e376aac0c2478
+"Deer Park, Forest Hill SE, Rathnelly, South Hill, Summerhill West",Indian Restaurant,Indian Street Food Co.,3084,"['1701 Bayview (Eglinton)', 'Toronto ON', 'Canada']",43.7080316171988,-79.37608602446167,5650eed9498e376aac0c2478
+"Forest Hill North, Forest Hill West",Indian Restaurant,Indian Street Food Co.,3091,"['1701 Bayview (Eglinton)', 'Toronto ON', 'Canada']",43.7080316171988,-79.37608602446167,5650eed9498e376aac0c2478
+Roselawn,Indian Restaurant,Indian Street Food Co.,3312,"['1701 Bayview (Eglinton)', 'Toronto ON', 'Canada']",43.7080316171988,-79.37608602446167,5650eed9498e376aac0c2478
+"The Annex, North Midtown, Yorkville",Indian Restaurant,Joe's Indian Restaurant,2529,['Canada'],43.65814977325445,-79.38156263736568,5165c333e4b07a7ad88d8a69
+"Deer Park, Forest Hill SE, Rathnelly, South Hill, Summerhill West",Indian Restaurant,Joe's Indian Restaurant,3480,['Canada'],43.65814977325445,-79.38156263736568,5165c333e4b07a7ad88d8a69
+"Moore Park, Summerhill East",Indian Restaurant,Joe's Indian Restaurant,3500,['Canada'],43.65814977325445,-79.38156263736568,5165c333e4b07a7ad88d8a69
+"Forest Hill North, Forest Hill West",Indian Restaurant,Joe's Indian Restaurant,4938,['Canada'],43.65814977325445,-79.38156263736568,5165c333e4b07a7ad88d8a69
+"Moore Park, Summerhill East",Indian Restaurant,Kothur Indian Cuisine,2424,"['649 Yonge St.', 'Toronto ON M4Y', 'Canada']",43.66787229558206,-79.38565911153148,4bedf8b5e24d20a17b567214
+"Moore Park, Summerhill East",Indian Restaurant,Maja Indian Cuisine,1984,"['345 Bloor', 'Toronto ON', 'Canada']",43.67204315344185,-79.37867041026186,55f75919498ea2710ea79060
+"The Annex, North Midtown, Yorkville",Indian Restaurant,Maja Indian Cuisine,2175,"['345 Bloor', 'Toronto ON', 'Canada']",43.67204315344185,-79.37867041026186,55f75919498ea2710ea79060
+"Deer Park, Forest Hill SE, Rathnelly, South Hill, Summerhill West",Indian Restaurant,Maja Indian Cuisine,2349,"['345 Bloor', 'Toronto ON', 'Canada']",43.67204315344185,-79.37867041026186,55f75919498ea2710ea79060
+Davisville,Indian Restaurant,Maja Indian Cuisine,3684,"['345 Bloor', 'Toronto ON', 'Canada']",43.67204315344185,-79.37867041026186,55f75919498ea2710ea79060
+"Forest Hill North, Forest Hill West",Indian Restaurant,Maja Indian Cuisine,3819,"['345 Bloor', 'Toronto ON', 'Canada']",43.67204315344185,-79.37867041026186,55f75919498ea2710ea79060
+Davisville North,Indian Restaurant,Maja Indian Cuisine,4625,"['345 Bloor', 'Toronto ON', 'Canada']",43.67204315344185,-79.37867041026186,55f75919498ea2710ea79060
+Davisville,Indian Restaurant,Marigold Indian Bistro,172,"['552 Mount Pleasant Rd.', 'Toronto ON', 'Canada']",43.702880859375,-79.38800811767578,5169d445e4b07de190b5c3d6
+Davisville North,Indian Restaurant,Marigold Indian Bistro,1112,"['552 Mount Pleasant Rd.', 'Toronto ON', 'Canada']",43.702880859375,-79.38800811767578,5169d445e4b07de190b5c3d6
+"Moore Park, Summerhill East",Indian Restaurant,Marigold Indian Bistro,1531,"['552 Mount Pleasant Rd.', 'Toronto ON', 'Canada']",43.702880859375,-79.38800811767578,5169d445e4b07de190b5c3d6
+"Forest Hill North, Forest Hill West",Indian Restaurant,Marigold Indian Bistro,1988,"['552 Mount Pleasant Rd.', 'Toronto ON', 'Canada']",43.702880859375,-79.38800811767578,5169d445e4b07de190b5c3d6
+North Toronto West,Indian Restaurant,Marigold Indian Bistro,1989,"['552 Mount Pleasant Rd.', 'Toronto ON', 'Canada']",43.702880859375,-79.38800811767578,5169d445e4b07de190b5c3d6
+"Deer Park, Forest Hill SE, Rathnelly, South Hill, Summerhill West",Indian Restaurant,Marigold Indian Bistro,2073,"['552 Mount Pleasant Rd.', 'Toronto ON', 'Canada']",43.702880859375,-79.38800811767578,5169d445e4b07de190b5c3d6
+Roselawn,Indian Restaurant,Marigold Indian Bistro,2526,"['552 Mount Pleasant Rd.', 'Toronto ON', 'Canada']",43.702880859375,-79.38800811767578,5169d445e4b07de190b5c3d6
+Lawrence Park,Indian Restaurant,Marigold Indian Bistro,2799,"['552 Mount Pleasant Rd.', 'Toronto ON', 'Canada']",43.702880859375,-79.38800811767578,5169d445e4b07de190b5c3d6
+"The Annex, North Midtown, Yorkville",Indian Restaurant,Maroli,1159,"['630 Bloor St West (Euclid)', 'Toronto ON M6G 1K7', 'Canada']",43.66447535039813,-79.41448737902193,4b02ecc8f964a520114b22e3
+"Deer Park, Forest Hill SE, Rathnelly, South Hill, Summerhill West",Indian Restaurant,Maroli,2704,"['630 Bloor St West (Euclid)', 'Toronto ON M6G 1K7', 'Canada']",43.66447535039813,-79.41448737902193,4b02ecc8f964a520114b22e3
+"Forest Hill North, Forest Hill West",Indian Restaurant,Maroli,3623,"['630 Bloor St West (Euclid)', 'Toronto ON M6G 1K7', 'Canada']",43.66447535039813,-79.41448737902193,4b02ecc8f964a520114b22e3
+Davisville North,Indian Restaurant,Mt Everest Restaurant,1905,"['804 Eglinton East (Eglinton and Sutherland)', 'East York ON M4G 2L1', 'Canada']",43.713265579296,-79.36652040161064,504bcf32e4b0ef19b0e2ecf8
+Davisville,Indian Restaurant,Mt Everest Restaurant,2049,"['804 Eglinton East (Eglinton and Sutherland)', 'East York ON M4G 2L1', 'Canada']",43.713265579296,-79.36652040161064,504bcf32e4b0ef19b0e2ecf8
+Lawrence Park,Indian Restaurant,Mt Everest Restaurant,2430,"['804 Eglinton East (Eglinton and Sutherland)', 'East York ON M4G 2L1', 'Canada']",43.713265579296,-79.36652040161064,504bcf32e4b0ef19b0e2ecf8
+"Moore Park, Summerhill East",Indian Restaurant,Mt Everest Restaurant,2957,"['804 Eglinton East (Eglinton and Sutherland)', 'East York ON M4G 2L1', 'Canada']",43.713265579296,-79.36652040161064,504bcf32e4b0ef19b0e2ecf8
+North Toronto West,Indian Restaurant,Mt Everest Restaurant,3159,"['804 Eglinton East (Eglinton and Sutherland)', 'East York ON M4G 2L1', 'Canada']",43.713265579296,-79.36652040161064,504bcf32e4b0ef19b0e2ecf8
+Lawrence Park,Indian Restaurant,Patio Indian Restaurant,4324,"['15 Gervais Dr. (across superstore)', 'Toronto ON M3C 1Y8', 'Canada']",43.722103,-79.335655,59e94c0260255e613b025e38
+Davisville North,Indian Restaurant,Patio Indian Restaurant,4510,"['15 Gervais Dr. (across superstore)', 'Toronto ON M3C 1Y8', 'Canada']",43.722103,-79.335655,59e94c0260255e613b025e38
+Davisville,Indian Restaurant,Patio Indian Restaurant,4711,"['15 Gervais Dr. (across superstore)', 'Toronto ON M3C 1Y8', 'Canada']",43.722103,-79.335655,59e94c0260255e613b025e38
+"Moore Park, Summerhill East",Indian Restaurant,Patio Indian Restaurant,5265,"['15 Gervais Dr. (across superstore)', 'Toronto ON M3C 1Y8', 'Canada']",43.722103,-79.335655,59e94c0260255e613b025e38
+North Toronto West,Indian Restaurant,Patio Indian Restaurant,5683,"['15 Gervais Dr. (across superstore)', 'Toronto ON M3C 1Y8', 'Canada']",43.722103,-79.335655,59e94c0260255e613b025e38
+"Forest Hill North, Forest Hill West",Indian Restaurant,Savera Indian Cuisine,2406,"['815 St Clair Ave W (at Atlas Ave)', 'Toronto ON M6C 1B4', 'Canada']",43.68057841847422,-79.4308324116619,4ae09642f964a520a68021e3
+"Moore Park, Summerhill East",Indian Restaurant,The Famous Indian Restaurant,5288,"['1410 Gerrard St E (at Ashdale Ave)', 'Toronto ON M4L 1Z2', 'Canada']",43.672339,-79.321941,4ae4c793f964a5201b9e21e3
+Davisville,Indian Restaurant,The Famous Indian Restaurant,6452,"['1410 Gerrard St E (at Ashdale Ave)', 'Toronto ON M4L 1Z2', 'Canada']",43.672339,-79.321941,4ae4c793f964a5201b9e21e3
+"The Annex, North Midtown, Yorkville",Indian Restaurant,Waterfalls restaurant,1075,"['303 Augusta Ave', 'Toronto ON', 'Canada']",43.67013,-79.3928,4e7e17295503d17f912287fc
